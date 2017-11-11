@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.0.0_9f1078b2d5d42487fd15a73018bafeca1177c456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.0_dae4fb675b3156feae2dc7bdc628506a69c55da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.0_b143a8c5becef49bf57cfb33407ac3d9a76ca8c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.0_b800217897a09d5fa4b043de142dc008735aefba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.0.0_ef9f8e96d1a4f9fdd92270e8ff9be8606c3a80f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ee7175d78711b4663fe79b75aba00f26db911b16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_3d7b9e7b8795ee9eb0b6fdfab8e6aa10b9efd962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_21370de05f077f314336d03e36e5645db39e34cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.0_a51d88409ca96f356730fea1bdd31be0b7fd5d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_ca6f6d9c9cc67b03e932464f5b0f8bcf351bb971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_3e4edcddeb828c8f4d9cf25bbc7fcac6786be64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_809795bc363d82354ab74785e165994c4ef291bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.0_02d73cd4a0fdab0d83548b6058d7cf28e0460931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_e6a99bdb8aa374dd9ef3f47de3d69bb70aa5873e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_a7b3b9cbb7cf2c70b7744be8644b7c1b5ebc95a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_5ced022862463b10005c48b3ff1bb27a5e70befd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_5c69f6cfb4a3c16e9e308dbaf31c4b62b9be00a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.0_cd112395d50e0370d4bcce7bc4fb82924b2f889d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_7c710ab571ffc58d82368e6c8f4c31a9ba8bf74d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_b773c2a036588501e90c34cb312d59a6dcf9302b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_8a9e02ccf642c072d84fdcec0796fd20deff90a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_caa39d9840cbf1672e67da4fc28278e26ee30990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_c3a93288d8b7c0f50134952a0518233f945407d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_09392ee9f11f356c9830fc992d62524e6f78a942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.0_db108fe8c299af88d31601125945b17d41c60e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_4a5b4fc9887a38ec15af1e3de33ab6f0d7407ed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/bobsira/Downloads/Chatmvp/Chatmvp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_7b2ee4c5e67431e5a1080dc3627d7544f7ab6d67.jar" />
+    </item>
+
+</items>
